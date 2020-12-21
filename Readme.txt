@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Pham Nguyen Mai Ly - s3749562
+COSC2083 - Introduction to IT
+Assignment 2 - The IT World
+Lecturer: Dang Pham Thien Duy
